@@ -14,7 +14,3 @@ I am student and also Self taught/Front-End developer. Learning Front-End Develo
 ======================
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ct2F5H32Vg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mykhailo-siedashev-a307ba28b) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mrsekret_) 
-
-📊 Statistic
-======================
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSecret&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
