@@ -1,9 +1,6 @@
-Hi 👋 My name is Misha
-======================
+## Sap! 👋 My name is Mykhailo or MrSecret, whichever is more convenient for you.
 
-![alt text](https://github.com/mrsekret/mrsekret/blob/main/code1.png?raw=true)
-
-I am student and also Self taught/Front-End developer. Learning Front-End Development
+`I am a student, I am 18 years old. I'm currently studying front-end development. I am also interested in the field of Minecraft servers and their development. I will be glad to cooperate with you!`
 
 💻 Languages and Tools:
 ======================
