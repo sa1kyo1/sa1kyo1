@@ -1,6 +1,5 @@
 ## Sap! 👋 My name is Mykhailo or MrSecret, whichever is more convenient for you.
 
-<img src="https://github.com/MrSekret/MrSekret/blob/a244dfe46d8a285ded68fdf0ef36492e9c181b12/Night.gif" width="250px" align="right"/>  
 
 > I am a student at a Ukrainian university, studying front-end development and at the same time other areas at the university. Now I'm looking for my first experience in this field. Ready to learn new knowledge that may be useful in work.
 
