@@ -1,4 +1,4 @@
-## Sap! 👋 My name is Mykhailo or MrSecret, whichever is more convenient for you.
+## Sap! 👋 My name is Mykhailo or S1kret, whichever is more convenient for you.
 
 
 > I am a student at a Ukrainian university, studying front-end development and at the same time other areas at the university. Now I'm looking for my first experience in this field. Ready to learn new knowledge that may be useful in work.
