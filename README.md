@@ -2,7 +2,7 @@
 
 ### Frontend Developer & Student
 
-Tech stask:
+Tech stack:
 <br>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="48" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="48" />
